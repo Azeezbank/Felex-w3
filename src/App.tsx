@@ -160,7 +160,7 @@ const App: React.FC = () => {
 
       {/* Link to the github repository */}
       <h2>To access the github repository</h2>
-      <p><a href="">Click here</a></p>
+      <p><a href="https://github.com/Azeezbank/Felex-w3">Click here</a></p>
     </>
   );
 };
